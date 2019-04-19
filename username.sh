@@ -1,4 +1,4 @@
-#! /home/username
+#! /bin/bash
 # username.sh
 # Alex Hamel
 echo "Create a username."
